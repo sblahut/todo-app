@@ -16,12 +16,12 @@ const todoData = [
     },
         {
         id: 4,
-        text: "Pack Elise's Backpack",
+        text: "Clean Kitchen",
         completed: true
     },
         {
         id: 15,
-        text: "Back Rubs",
+        text: "Cook Dinner",
         completed: false
     }
 ]
